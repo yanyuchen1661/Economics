@@ -43,6 +43,7 @@ Lessons notes for economics
 - 看懂公司财报
 
 ### 机会成本
-
+<p style='color:red'>
 - 聚餐的成本：现在的时间来干点别的
 - 为什么身边有的人忙的一塌糊涂，却一事无成：比如代购。
+  </p>
