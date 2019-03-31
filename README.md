@@ -4,7 +4,7 @@ Lessons notes for economics
 紫砂泰斗顾景舟亲侄重现金舟八式：importance felt 被感知的重要性：文化传承，伟大的投资
 ### 理性人
 
-<img src="/supply_demand.png">
+<img src="/supply_demand.png",height=300, width=300>
 
 ![](supply_demand.png)
 ### 稀缺性
