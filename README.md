@@ -8,5 +8,8 @@ Lessons notes for economics
 <img src="/supply_demand.png" height="250" width="300">
 
 2. 稀缺性
-用哪些方法可以创造稀缺性？
+2.1 用哪些方法可以创造稀缺性？
 
+- 创造巨大需求
+- 限时
+- 限量
