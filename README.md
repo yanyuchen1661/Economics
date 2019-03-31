@@ -25,7 +25,11 @@ Lessons notes for economics
 <img src="/supply_demand.png" height="250" width="300">
 - 供需平衡
 - 供过于求
+
 完美竞争：市场足够透明，供应量足够充裕，此时价格会低到一个极限。
+
 - 供不应求
+
 垄断：供给方是唯一的，没有竞争。中国知网。
+
 - 有效市场假说：信息是普遍共享的。
